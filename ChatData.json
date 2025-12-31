@@ -1,0 +1,92 @@
+[
+  {
+    "time": 3324,
+    "name": "名無しさん",
+    "message": "こんにちは",
+    "isMaster": true,
+    "x": -106.28571428571563,
+    "lane": 0,
+    "width": 85.69999694824219,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": ""
+    }
+  },
+  {
+    "time": 5139,
+    "name": "名無しさん",
+    "message": "たのしいー！",
+    "isMaster": true,
+    "x": -123.42857142857271,
+    "lane": 0,
+    "width": 102.83999633789062,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": false,
+      "id": ""
+    }
+  },
+  {
+    "time": 10416,
+    "name": "うゆてこ",
+    "message": "かみ！",
+    "isMaster": true,
+    "x": -1.4641621248756564e-12,
+    "lane": 0,
+    "width": 51.41999816894531,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": ""
+    }
+  },
+  {
+    "time": 11550,
+    "name": "うゆてこ",
+    "message": "さいこう！",
+    "isMaster": true,
+    "x": 47.99999999999855,
+    "lane": 0,
+    "width": 85.69999694824219,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": ""
+    }
+  },
+  {
+    "time": 13033,
+    "name": "うゆてこ",
+    "message": "ばいばい！",
+    "isMaster": true,
+    "x": 101.14285714285558,
+    "lane": 1,
+    "width": 85.69999694824219,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": ""
+    }
+  },
+  {
+    "time": 14983,
+    "name": "うゆてこ",
+    "message": "またね！",
+    "isMaster": true,
+    "x": 205.71428571428442,
+    "lane": 0,
+    "width": 68.55999755859375,
+    "sprite": {
+      "canvas": {},
+      "ctx": {},
+      "inUse": true,
+      "id": ""
+    }
+  }
+]
